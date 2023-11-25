@@ -29,7 +29,7 @@ export const useCreatUser = (list, cat, city) => {
         variables: {
           info: userInfo,
         },
-        onCompleted: ()=> Navi('/Signin')
+        onCompleted: ()=> Navi('/get-started/Signin')
       });
 
      if (errors){
