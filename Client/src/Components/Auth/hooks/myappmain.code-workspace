@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Server",
+			"path": "../../../../../my 4hire/Server"
+		},
+		{
+			"name": "myapp",
+			"path": "../../../.."
+		}
+	],
+	"settings": {}
+}
